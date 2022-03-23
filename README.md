@@ -1,6 +1,7 @@
 # Hello! :wave:
 
-### My name is Thiago Medina, I'm from Brazil and, at the time, I'm a Sophomore studying computer scince
+### My name is Thiago Medina, I'm 18 and I'm from Brazil
+### Currently, I'm a sophomore studying Computer Science
 
 ### What I'm studing:
 - :man_technologist: Java SpringBoot
